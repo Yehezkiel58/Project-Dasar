@@ -1,0 +1,10 @@
+G:\KULIAH\KERJA PRAKTEK\Magang\VS\Kalkulator Luas Lingkaran\Kalkulator Luas Lingkaran\bin\Debug\Kalkulator Luas Lingkaran.exe.config
+G:\KULIAH\KERJA PRAKTEK\Magang\VS\Kalkulator Luas Lingkaran\Kalkulator Luas Lingkaran\bin\Debug\Kalkulator Luas Lingkaran.exe
+G:\KULIAH\KERJA PRAKTEK\Magang\VS\Kalkulator Luas Lingkaran\Kalkulator Luas Lingkaran\bin\Debug\Kalkulator Luas Lingkaran.pdb
+G:\KULIAH\KERJA PRAKTEK\Magang\VS\Kalkulator Luas Lingkaran\Kalkulator Luas Lingkaran\obj\Debug\Kalkulator Luas Lingkaran.csproj.AssemblyReference.cache
+G:\KULIAH\KERJA PRAKTEK\Magang\VS\Kalkulator Luas Lingkaran\Kalkulator Luas Lingkaran\obj\Debug\Kalkulator_Luas_Lingkaran.Form1.resources
+G:\KULIAH\KERJA PRAKTEK\Magang\VS\Kalkulator Luas Lingkaran\Kalkulator Luas Lingkaran\obj\Debug\Kalkulator_Luas_Lingkaran.Properties.Resources.resources
+G:\KULIAH\KERJA PRAKTEK\Magang\VS\Kalkulator Luas Lingkaran\Kalkulator Luas Lingkaran\obj\Debug\Kalkulator Luas Lingkaran.csproj.GenerateResource.cache
+G:\KULIAH\KERJA PRAKTEK\Magang\VS\Kalkulator Luas Lingkaran\Kalkulator Luas Lingkaran\obj\Debug\Kalkulator Luas Lingkaran.csproj.CoreCompileInputs.cache
+G:\KULIAH\KERJA PRAKTEK\Magang\VS\Kalkulator Luas Lingkaran\Kalkulator Luas Lingkaran\obj\Debug\Kalkulator Luas Lingkaran.exe
+G:\KULIAH\KERJA PRAKTEK\Magang\VS\Kalkulator Luas Lingkaran\Kalkulator Luas Lingkaran\obj\Debug\Kalkulator Luas Lingkaran.pdb
